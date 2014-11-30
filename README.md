@@ -24,3 +24,5 @@ This work is available under the MIT license: <http://paulrobertlloyd.mit-licens
 
 * Pattern Primer (<https://github.com/adactio/Pattern-Primer/>)  
   by Jeremy Keith (<http://adactio.com/>)
+
+Jekyll v
